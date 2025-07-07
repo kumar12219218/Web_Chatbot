@@ -1,0 +1,9 @@
+flask
+flask-session
+langchain
+langchain-core
+langchain-community
+langgraph
+tavily-python
+python-dotenv
+langchain_groq
